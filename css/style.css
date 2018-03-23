@@ -1,0 +1,33 @@
+/* Navbar */
+
+.navbar {
+	background-color: #353A40
+
+}
+
+.navbar-nav a {
+	color: #FFF;
+	padding-left: 20px;
+}
+
+.navbar span  {
+	color: #A4A095
+}
+
+
+
+/* Cards */
+
+.card-container {
+	display: flex;
+	flex-direction: row;
+	margin: 20px 50px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.card {
+	width: 200px;
+	margin-top: 15px;
+	align-self: flex-start;
+}
